@@ -1,5 +1,5 @@
 # HR Attrition Analysis with Power BI
-
+![HR Attrition Analysis with Power BI](https://github.com/Oluchiumeh/HR-Attrition-Analysis/blob/main/HR%20Attrition%20dashboard.png)
 ## Overview
 This project presents an analysis of HR attrition data using Power BI. The objective is to uncover insights into employee turnover and identify key factors influencing attrition rates. By leveraging Power BI's capabilities for data visualization and analysis, this project aims to provide actionable insights for HR departments to improve retention strategies and reduce employee attrition.
 
